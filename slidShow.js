@@ -6,7 +6,7 @@ const url = [
 "https://github.com/tkmisdd/slidshow/blob/main/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB.png?raw=true",
 "https://github.com/tkmisdd/slidshow/blob/main/%E3%82%A4%E3%82%AD%E3%82%99%E3%83%AA%E3%82%B9.png?raw=true",
 "https://github.com/tkmisdd/slidshow/blob/main/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.png?raw=true",
-"フランス.png",
+"https://github.com/tkmisdd/slidshow/blob/main/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9.png?raw=true",
 "ベルギー.png",
 ];
 
