@@ -2,7 +2,7 @@ let count = 0;
 const mainElement = document.querySelector("div.main>img");
 const url = [
 "https://github.com/tkmisdd/slidshow/blob/main/%E6%97%A5%E6%9C%AC.png?raw=true",
-"韓国.png",
+"https://github.com/tkmisdd/slidshow/blob/main/%E9%9F%93%E5%9B%BD.png?raw=true",
 "https://github.com/tkmisdd/slidshow/blob/main/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB.png?raw=true",
 "https://github.com/tkmisdd/slidshow/blob/main/%E3%82%A4%E3%82%AD%E3%82%99%E3%83%AA%E3%82%B9.png?raw=true",
 "https://github.com/tkmisdd/slidshow/blob/main/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2.png?raw=true",
