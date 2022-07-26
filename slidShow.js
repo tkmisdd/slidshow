@@ -3,7 +3,7 @@ const mainElement = document.querySelector("div.main>img");
 const url = [
 "日本.png",
 "韓国.png",
-"アメリカ.png",
+"https://github.com/tkmisdd/slidshow/blob/main/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB.png?raw=true",
 "イギリス.png",
 "イタリア.png",
 "フランス.png",
