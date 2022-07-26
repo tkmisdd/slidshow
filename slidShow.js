@@ -4,7 +4,7 @@ const url = [
 "日本.png",
 "韓国.png",
 "https://github.com/tkmisdd/slidshow/blob/main/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB.png?raw=true",
-"イギリス.png",
+"https://github.com/tkmisdd/slidshow/blob/main/%E3%82%A4%E3%82%AD%E3%82%99%E3%83%AA%E3%82%B9.png?raw=true",
 "イタリア.png",
 "フランス.png",
 "ベルギー.png",
